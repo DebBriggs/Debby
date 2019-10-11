@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="action_settings">My page</string>
+    <string name="about_alc">About ALC</string>
+    <string name="debby">Debby</string>
+    <string name="profile">My Profile</string>
+    <string name="page">My Page</string>
+</resources>
